@@ -13,4 +13,4 @@ Purpose:
 - Automate builds
 
 
-webhook successful configured
+new config done
