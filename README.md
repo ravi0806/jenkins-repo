@@ -11,3 +11,6 @@ Purpose:
 - Learn Jenkins pipeline
 - Configure GitHub webhook
 - Automate builds
+
+
+webhook successful configured
